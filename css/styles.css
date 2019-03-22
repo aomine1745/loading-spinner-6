@@ -1,0 +1,12 @@
+body{
+	margin: 0;
+	height: 100vh;
+	background-color: #2B3134;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+svg path,
+svg rect {
+	fill: #FF6700;
+}
